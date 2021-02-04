@@ -1,0 +1,5 @@
+.post-dropdown {
+  top: -3px;
+  z-index: 20;
+  transform: translateX(-80%);
+}
